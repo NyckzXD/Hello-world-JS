@@ -11,7 +11,7 @@ Alguns tópicos que quero estudar:
 
 - [ ] Desenvolvimento Web (React, Node.js)
 - [ ] Banco de Dados (SQL, MongoDB)
-- [ ] Cybersecurity
+- [ ] CyberSecurity
 
 Aberto a colaborações, dicas e conversas sobre tecnologia!
 
